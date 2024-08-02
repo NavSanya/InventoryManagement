@@ -30,6 +30,7 @@ The following datasets are used:
 
 Data is loaded, cleaned, and prepared for analysis. Missing values are filled, and columns are renamed for consistency. Dates are converted to datetime format.
 
+Dataset[https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study]
 ## Inventory Analysis
 - Merged beginning and ending inventory data.
 - Calculated the change in inventory levels to identify overstocked and understocked items.
